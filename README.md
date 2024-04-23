@@ -40,11 +40,11 @@ Dependiendo de la situacion en el que lo vaya usar eliga cualquier de las opcion
 
 ![](https://github.com/TarsorCase/Examen-2/blob/master/Photos/MRU.png)
 
-Dependiendo de la situacion en el que lo vaya usar eliga cualquier de las opciones: ``` 1 ``` o ``` 2 ``` o ``` 3 ```
+En el caso de MRU dependiendo de la situacion en el que lo vaya usar eliga cualquier de las opciones: ``` 1 ``` o ``` 2 ``` o ``` 3 ```
 
 ![](https://github.com/TarsorCase/Examen-2/blob/master/Photos/MRUA.png)
 
-Dependiendo de la situacion en el que lo vaya usar eliga cualquier de las opciones: ``` 1 ``` o ``` 2 ``` o ``` 3 ```
+En el caso de MRUA dependiendo de la situacion en el que lo vaya usar eliga cualquier de las opciones: ``` 1 ``` o ``` 2 ``` o ``` 3 ```
 
 
 
