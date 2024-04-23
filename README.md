@@ -26,15 +26,11 @@ git clone https://github.com/TarsorCase/Examen-2.git
 ```
 cd Examen-2/
 ```
-```
 cd Exam/
-```
 ```
 dotnet run Program.cs
 ```
-```
 Para elegir 
-```
 ```
 git clone https://github.com/TarsorCase/Examen-2.git
 ```
