@@ -28,7 +28,9 @@ cd Examen-2/
 ```
 cd Exam/
 ```
+```
 dotnet run Program.cs
+```
 ```
 ## Contribution Guidelines
 
