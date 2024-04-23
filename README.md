@@ -34,6 +34,7 @@ cd Exam/
 ```
 dotnet run Program.cs
 ```
+![]()
 ## Contribution Guidelines
 
 Contributions to this repository are welcome and encouraged! If you have additional videos from the CS50 course that you'd like to add, please feel free to submit a pull request. However, please ensure that you have the necessary rights to distribute the videos before doing so.
