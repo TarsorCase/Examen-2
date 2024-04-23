@@ -21,16 +21,18 @@ Calcular la velocidad final (v = v0 + a * t).
 Calcular el tiempo (t = (v - v0) / a). 
 
 ## How to Use
+
 ```
 git clone https://github.com/TarsorCase/Examen-2.git
 ```
+```
 cd Examen-2/
+```
 ```
 cd Exam/
 ```
 ```
 dotnet run Program.cs
-```
 ```
 ## Contribution Guidelines
 
