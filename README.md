@@ -62,4 +62,4 @@ Porfavor denotar que este repositorio es un proyecto para la universidad solamen
 
 Si tienes alguna pregunta, inquietud o comentario sobre este repositorio, por favor no dudes en comunicarte. Puedes contactarme [abriendo un problema](https://github.com/TarsorCase/Examen-2/issues) o enviándome un correo electrónico a [gerard.gonzalez@ucb.edu.bo](mailto:gerard.gonzalez@ucb.edu.bo).
 
-Happy learning! 🚀
+Happy Coding! 🚀
