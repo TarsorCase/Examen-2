@@ -48,22 +48,18 @@ En el caso de MRUA dependiendo de la situacion en el que lo vaya usar eliga cual
 
 ![](https://github.com/TarsorCase/Examen-2/blob/master/Photos/POC.png)
 
-Este es un POC(Proof of concept) de MRU en este caso tomamos la opcion de calcular la distancia por lo que elegimos la opcion ``` 1 ``` esto hace que nos pregunta la velocidad en la cual ingresamos ``` 2 ```  y finalmente el tiempo el cual es ``` 3 ``` al finalizar de ingresar los datos para que la formula funcione este mismo no indica que ``` La distancia es: 6 ``` por ultimo el programa hace la pregunta de si desea seguir haciendo calculaciones en el caso de que si se pone``` 1 ``` en el caso de que no se pone ``` 2 ```
+Este es un POC(Proof of concept) de MRU en este caso tomamos la opcion de calcular la distancia por lo que elegimos la opcion ``` 1 ``` esto hace que nos pregunta la velocidad en la cual ingresamos ``` 2 ```  y finalmente el tiempo el cual es ``` 3 ``` al finalizar de ingresar los datos para que la formula funcione este mismo no indica que ``` La distancia es: 6 ``` por ultimo el programa hace la pregunta de si desea seguir haciendo calculaciones en el caso de que si se pone ``` 1 ``` en el caso de que no se pone ``` 2 ```
 
 ## Contribution Guidelines
 
-Contributions to this repository are welcome and encouraged! If you have additional videos from the CS50 course that you'd like to add, please feel free to submit a pull request. However, please ensure that you have the necessary rights to distribute the videos before doing so.
+Las contribuciones directa al proyecto son mias sin emebargo denotar el trabajo de enseñanza del profesor para lograr el proyecto. Sientase libres de subir un pull request si es que desean.
 
 ## Disclaimer
 
-Please note that the videos in this repository are intended for educational purposes only. They are provided here as a resource for individuals interested in learning more about computer science and programming. All rights to the videos belong to Harvard University.
-
-## Acknowledgements
-
-A huge thank you to Harvard University for providing access to these educational resources and for their commitment to making computer science education accessible to all.
+Porfavor denotar que este repositorio es un proyecto para la universidad solamente. Los recursos aca, son totalemente utilizables para cualquier individuo interesado en como funciona el proyecto.
 
 ## Contact
 
-If you have any questions, concerns, or feedback regarding this repository, please don't hesitate to reach out. You can contact us by [opening an issue](https://github.com/yourusername/CS50-harvard-videos/issues) or by emailing us at [example@example.com](mailto:example@example.com).
+Si tienes alguna pregunta, inquietud o comentario sobre este repositorio, por favor no dudes en comunicarte. Puedes contactarme [abriendo un problema](https://github.com/TarsorCase/Examen-2/issues) o enviándome un correo electrónico a [gerard.gonzalez@ucb.edu.bo](mailto:gerard.gonzalez@ucb.edu.bo).
 
 Happy learning! 🚀
