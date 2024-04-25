@@ -91,5 +91,5 @@ if (yes == 2)
   Console.WriteLine(" /\\_/\\");
   Console.WriteLine("( o.o )");  
   Console.WriteLine(" > ^ <");
-  Console.WriteLine("All so shall you concive this phrase \"Cato\" but how may u use it");
+  Console.WriteLine("All so shall you concive this phrase \"Cato\" but how may u use it?");
 }
