@@ -1,3 +1,7 @@
+<p align="left">
+<a href="#"><img title="Made in BOLIVIA" src="https://img.shields.io/badge/MADE%20IN-BOLIVIA-green?colorA=%23ff9933&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
 # Detalles
 
 Esta es una aplicación de consola en C# que funcione como calculadora para resolver problemas de Movimiento Rectilíneo Uniforme (MRU) y Movimiento Rectilíneo Uniformemente Acelerado (MRUA). La aplicación deberá solicitar al usuario qué cálculos desea realizar y continuará ejecutándose hasta que el usuario decida terminar. 
