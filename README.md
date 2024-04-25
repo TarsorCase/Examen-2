@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in BOLIVIA" src="https://img.shields.io/badge/MADE%20IN-BOLIVIA-green?colorA=%23ff9933&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="blackeye-im" src="https://i.imgur.com/5N5Kdjw.png"></a>
+<a href="#"><img title="blackeye-im" src="https://github.com/TarsorCase/Examen-2/blob/master/Photos/Logo.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/thewickedkarma"><img title="Author" src="https://img.shields.io/badge/Author-thewickedkarma-red.svg?style=for-the-badge&logo=github"></a>
