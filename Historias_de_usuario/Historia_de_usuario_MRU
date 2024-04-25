@@ -39,7 +39,7 @@ Se estima que esta historia de usuario tomará aproximadamente 20 minutos para c
 ## Discusiones
 
 1. **Discusión 1**
-   - Se debatió sobre la importancia de implementar cada función de cálculo de forma modular y precisa.
+   - Se debatió sobre la importancia de implementar cada función de cálculo de forma precisa.
    - Se acordó priorizar el desarrollo de la función para calcular la distancia en la primera iteración.
 
 2. **Discusión 2**
@@ -48,5 +48,5 @@ Se estima que esta historia de usuario tomará aproximadamente 20 minutos para c
 
 ## Historial de Cambios
 
-- **[Fecha]** Cambio realizado por [Persona] - Se desarrolló la funcionalidad para calcular la distancia en un MRU.
-- **[Fecha]** Cambio realizado por [Persona] - Se implementaron mejoras en la interfaz de usuario para hacer más claro el proceso de cálculo.
+- **[23/04/2024]** Cambio realizado por [gerard] - Se desarrolló la funcionalidad para calcular la distancia en un MRU.
+- **[23/04/2024]** Cambio realizado por [gerard] - Se implementaron mejoras en la interfaz de usuario para hacer más claro el proceso de cálculo.
