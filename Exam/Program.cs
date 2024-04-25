@@ -8,14 +8,14 @@ while(yes == 1){
     case 1:  
     Console.WriteLine("1 ---> Distancia\n2 ---> Velocidad\n3 ---> Tiempo\nSeleccione una opcion (1 - 2 - 3): ");
     int optionMru = Convert.ToInt32(Console.ReadLine());
-    int distancia;
-    int tiempo;
-    int velocidad;
-    int pos_ini;
+    float distancia;
+    float tiempo;
+    float velocidad;
+    float pos_ini;
     double pos_fin;
-    int velo_ini;
-    int velo_fin;
-    int aceleracion;
+    float velo_ini;
+    float velo_fin;
+    float aceleracion;
       switch (optionMru){
       case 1:
       Console.WriteLine("Ingrese la velocidad: ");
