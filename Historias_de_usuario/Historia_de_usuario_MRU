@@ -1,0 +1,52 @@
+# Historia de Usuario No. 1
+
+## Desarrollo de la Calculadora - MRU (Movimiento Rectilíneo Uniforme)
+
+`Como usuario, necesito calcular la distancia, velocidad o tiempo en un MRU para resolver problemas de cinemática básica.`
+
+## Descripción
+
+Al realizar cálculos relacionados con el MRU, es crucial contar con una herramienta que me permita calcular la distancia, velocidad o tiempo de manera rápida y precisa. Esto facilita la resolución de problemas de física y ayuda en el aprendizaje de conceptos básicos de cinemática.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede seleccionar entre calcular la distancia, velocidad o tiempo en un MRU.
+   - El sistema muestra el resultado correspondiente de acuerdo a la opción seleccionada.
+
+2. **Criterio de Aceptación 2**
+   - Se deben ingresar los valores necesarios para realizar el cálculo (velocidad, distancia o tiempo).
+   - El sistema muestra el resultado de forma clara y precisa.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Se estima que esta historia de usuario tomará aproximadamente 20 minutos para completarse.
+
+## Notas/Tareas Adicionales
+
+- [x] Desarrollar la funcionalidad para calcular la distancia en un MRU.
+- [x] Implementar las funciones para calcular la velocidad y el tiempo en un MRU.
+- [ ] Realizar pruebas exhaustivas para garantizar la precisión de los cálculos.
+
+## Prototipos/Anexos
+
+- 
+
+## Discusiones
+
+1. **Discusión 1**
+   - Se debatió sobre la importancia de implementar cada función de cálculo de forma modular y precisa.
+   - Se acordó priorizar el desarrollo de la función para calcular la distancia en la primera iteración.
+
+2. **Discusión 2**
+   - Se discutió sobre la necesidad de realizar pruebas rigurosas para validar los cálculos realizados por la calculadora MRU.
+   - Se decidió asignar tiempo suficiente para realizar pruebas exhaustivas antes de lanzar la funcionalidad al público.
+
+## Historial de Cambios
+
+- **[Fecha]** Cambio realizado por [Persona] - Se desarrolló la funcionalidad para calcular la distancia en un MRU.
+- **[Fecha]** Cambio realizado por [Persona] - Se implementaron mejoras en la interfaz de usuario para hacer más claro el proceso de cálculo.

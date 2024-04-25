@@ -1,0 +1,52 @@
+# Historia de Usuario No. 2
+
+## Desarrollo de la Calculadora - MRUA (Movimiento Rectilíneo Uniformemente Acelerado)
+
+`Como usuario, necesito calcular la posición final, velocidad final o tiempo en un MRUA para resolver problemas de cinemática básica.`
+
+## Descripción
+
+Al realizar cálculos relacionados con el MRUA, es esencial contar con una herramienta que permita calcular la posición final, velocidad final o tiempo de manera rápida y precisa. Esto facilita la resolución de problemas de física y ayuda en el aprendizaje de conceptos básicos de cinemática.
+
+## Criterios de Aceptación
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede seleccionar entre calcular la posición final, velocidad final o tiempo en un MRUA.
+   - El sistema muestra el resultado correspondiente de acuerdo a la opción seleccionada.
+
+2. **Criterio de Aceptación 2**
+   - Se deben ingresar los valores necesarios para realizar el cálculo (posición inicial, velocidad inicial, aceleración o tiempo).
+   - El sistema muestra el resultado de forma clara y precisa.
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Se estima que esta historia de usuario tomará aproximadamente 20 minutos para completarse.
+
+## Notas/Tareas Adicionales
+
+- [x] Desarrollar la funcionalidad para calcular la posición final en un MRUA.
+- [x] Implementar las funciones para calcular la velocidad final y el tiempo en un MRUA.
+- [ ] Realizar pruebas exhaustivas para garantizar la precisión de los cálculos.
+
+## Prototipos/Anexos
+
+- 
+
+## Discusiones
+
+1. **Discusión 1**
+   - Se debatió sobre la importancia de implementar cada función de cálculo de forma modular y precisa.
+   - Se acordó priorizar el desarrollo de la función para calcular la posición final en la primera iteración.
+
+2. **Discusión 2**
+   - Se discutió sobre la necesidad de realizar pruebas rigurosas para validar los cálculos realizados por la calculadora MRUA.
+   - Se decidió asignar tiempo suficiente para realizar pruebas exhaustivas antes de lanzar la funcionalidad al público.
+
+## Historial de Cambios
+
+- **[Fecha]** Cambio realizado por [Persona] - Se desarrolló la funcionalidad para calcular la posición final en un MRUA.
+- **[Fecha]** Cambio realizado por [Persona] - Se implementaron mejoras en la interfaz de usuario para hacer más claro el proceso de cálculo.
